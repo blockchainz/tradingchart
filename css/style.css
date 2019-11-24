@@ -39,7 +39,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -136,7 +136,7 @@ h6 {
   margin: 0;
   padding: 0;
   line-height: 1;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 700;
 }
 
@@ -198,7 +198,7 @@ h6 {
   color: #0c2e8a;
   margin-bottom: 30px;
   font-size: 64px;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 #intro .intro-content h2 span {
@@ -208,9 +208,9 @@ h6 {
 
 #intro .intro-content .btn-get-started,
 #intro .intro-content .btn-projects {
-  font-family: "Raleway", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 15px;
-  font-weight: bold;
+  font-weight: 400;
   letter-spacing: 1px;
   display: inline-block;
   padding: 10px 32px;
@@ -343,7 +343,7 @@ h6 {
   text-decoration: none;
   display: inline-block;
   color: #555;
-  font-family: "Raleway", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 700;
   font-size: 14px;
   outline: none;
@@ -509,7 +509,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 32px;
   color: #0c2e8a;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 400;
   position: relative;
   padding-bottom: 20px;
 }
@@ -550,7 +550,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #0c2e8a;
   font-weight: 700;
   font-size: 36px;
-  font-family: "Raleway", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 #about .content h3 {
@@ -761,15 +761,16 @@ body.mobile-nav-active #mobile-nav-toggle {
 } 
 
 #testimonials .testimonial-item h3 {
-  font-size: 18px;
-  font-weight: bold;
+  font-size: 24px;
+  font-weight: 700;
   margin: 10px 0 5px 0;
   color: #111;
 }
 
 #testimonials .testimonial-item h4 {
-  font-size: 14px;
-  color: #999;
+  margin-top: 10px;
+  font-size: 18px;
+  color: #888;
   margin: 0;
 }
 
@@ -789,7 +790,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #testimonials .testimonial-item p {
-  font-style: italic;
   margin: 0 auto 15px auto;
 }
 
@@ -832,7 +832,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #call-to-action .cta-btn {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 700;
   font-size: 16px;
   letter-spacing: 1px;
